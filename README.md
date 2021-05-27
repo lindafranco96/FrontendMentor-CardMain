@@ -26,7 +26,7 @@ Users should be able to:
 
 Screenshot on desktop size
 
-![](./my-solution-images/CardMain-mobile.PNG)
+![](./my-solution-images/CardMain-mobile.png)
 
 Screenshot on mobile size (375px)
 
